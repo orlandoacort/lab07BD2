@@ -1,0 +1,860 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.22)  19 MAY 2019 18:27
+entering extended mode
+**./InformeLaboratorio04.tex
+(InformeLaboratorio04.tex
+LaTeX2e <2018-12-01>
+(D:\miktext\tex/latex/base\article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(D:\miktext\tex/latex/base\size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (D:\miktext\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) (D:\miktext\tex/generic/babel\babel.sty
+Package: babel 2018/11/13 3.27 The Babel package
+
+(D:\miktext\tex/generic/babel\switch.def
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\miktext\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\miktext\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+(D:\miktext\tex/generic/babel\babel.def
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+(D:\miktext\tex/generic/babel\txtbabel.def)
+\bbl@dirlevel=\count89
+)
+\es@quottoks=\toks16
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(D:\miktext\tex/latex/graphics\graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\miktext\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(D:\miktext\tex/latex/graphics\graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\miktext\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\miktext\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(D:\miktext\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(D:\miktext\tex/latex/geometry\geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(D:\miktext\tex/generic/oberdiek\ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(D:\miktext\tex/generic/oberdiek\ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(D:\miktext\tex/generic/ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks18
+
+(D:\miktext\tex/latex/geometry\geometry.cfg))
+(D:\miktext\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count94
+\float@exts=\toks19
+\float@box=\box27
+\@float@everytoks=\toks20
+\@floatcapt=\box28
+)
+(D:\miktext\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(D:\miktext\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:\miktext\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen114
+))
+(D:\miktext\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen115
+)
+(D:\miktext\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks22
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks23
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks24
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(D:\miktext\tex/latex/oberdiek\stackrel.sty
+Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
+
+(D:\miktext\tex/generic/oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(D:\miktext\tex/generic/oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(D:\miktext\tex/generic/oberdiek\ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))
+(D:\miktext\tex/generic/oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(D:\miktext\tex/generic/oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(D:\miktext\tex/latex/multirow\multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip46
+\multirow@cntb=\count107
+\multirow@dima=\skip47
+\bigstrutjot=\dimen123
+)
+(D:\miktext\tex/latex/tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks26
+) (InformeLaboratorio04.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+
+(Secciones/Actividad01.aux) (Secciones/Actividad02.aux)
+(Secciones/Actividad03.aux) (Secciones/Actividad04.aux)
+(Secciones/Actividad05.aux) (Secciones/Actividad06.aux)
+(Secciones/Actividad07.aux))
+\openout1 = `InformeLaboratorio04.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+ (D:\miktext\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen124
+\scratchbox=\box31
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen125
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks28
+) (D:\miktext\tex/latex/oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(D:\miktext\tex/latex/oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(D:\miktext\tex/generic/oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(D:\miktext\tex/latex/oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(D:\miktext\tex/generic/oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<./Imagenes/logo.jpg, id=1, 276.03125pt x 183.68625pt>
+File: ./Imagenes/logo.jpg Graphic file (type jpg)
+<use ./Imagenes/logo.jpg>
+Package pdftex.def Info: ./Imagenes/logo.jpg  used on input line 38.
+(pdftex.def)             Requested size: 227.62204pt x 151.47853pt.
+[1
+
+{C:/Users/Usuario/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagene
+s/logo.jpg>] (InformeLaboratorio04.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `InformeLaboratorio04.toc'.
+
+ [1]
+\openout2 = `Secciones/Actividad01.aux'.
+
+ (Secciones/Actividad01.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Overfull \hbox (126.75119pt too wide) in paragraph at lines 27--28
+[]\OT1/cmr/m/n/12 Docker Desk-top (Pa-ra lo cual se de-be pri-me-ro crear una c
+uen-ta en Doc-ker Hub - https://hub.docker.com/signup?next= 
+ []
+
+) [1
+
+]
+\openout2 = `Secciones/Actividad02.aux'.
+
+ (Secciones/Actividad02.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+) [2
+
+
+]
+\openout2 = `Secciones/Actividad03.aux'.
+
+ (Secciones/Actividad03.tex
+<./Imagenes/docker.png, id=18, 1011.02719pt x 249.93375pt>
+File: ./Imagenes/docker.png Graphic file (type png)
+<use ./Imagenes/docker.png>
+Package pdftex.def Info: ./Imagenes/docker.png  used on input line 10.
+(pdftex.def)             Requested size: 512.1614pt x 227.63075pt.
+
+Overfull \hbox (11.67741pt too wide) in paragraph at lines 10--11
+ [] 
+ []
+
+
+Overfull \hbox (25.94084pt too wide) in paragraph at lines 6--13
+[]\OT1/cmr/m/n/12 Instalar Doc-ker des-de la si-guien-te di-rec-cion : https://
+docs.docker.com/docker-for-windows/install/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--13
+
+ []
+
+<./Imagenes/dockerinst.png, id=19, 527.72156pt x 362.85562pt>
+File: ./Imagenes/dockerinst.png Graphic file (type png)
+<use ./Imagenes/dockerinst.png>
+Package pdftex.def Info: ./Imagenes/dockerinst.png  used on input line 17.
+(pdftex.def)             Requested size: 512.17918pt x 227.62578pt.
+
+Overfull \hbox (11.69519pt too wide) in paragraph at lines 17--18
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--20
+
+ []
+
+<./Imagenes/dockerre.png, id=20, 527.72156pt x 361.35pt>
+File: ./Imagenes/dockerre.png Graphic file (type png)
+<use ./Imagenes/dockerre.png>
+Package pdftex.def Info: ./Imagenes/dockerre.png  used on input line 24.
+(pdftex.def)             Requested size: 512.17918pt x 227.62413pt.
+
+Overfull \hbox (11.69519pt too wide) in paragraph at lines 24--25
+ [] 
+ []
+
+[3
+
+
+ <./Imagenes/docker.png> <./Imagenes/dockerinst.png>]
+<./Imagenes/dockerrun.png, id=24, 268.00125pt x 469.755pt>
+File: ./Imagenes/dockerrun.png Graphic file (type png)
+<use ./Imagenes/dockerrun.png>
+Package pdftex.def Info: ./Imagenes/dockerrun.png  used on input line 31.
+(pdftex.def)             Requested size: 199.1684pt x 227.62303pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+<./Imagenes/dockerlogin.png, id=25, 359.84438pt x 221.32687pt>
+File: ./Imagenes/dockerlogin.png Graphic file (type png)
+<use ./Imagenes/dockerlogin.png>
+Package pdftex.def Info: ./Imagenes/dockerlogin.png  used on input line 41.
+(pdftex.def)             Requested size: 227.63109pt x 170.72614pt.
+[4 <./Imagenes/dockerre.png> <./Imagenes/dockerrun.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+<./Imagenes/powershell.png, id=29, 292.09125pt x 464.4853pt>
+File: ./Imagenes/powershell.png Graphic file (type png)
+<use ./Imagenes/powershell.png>
+Package pdftex.def Info: ./Imagenes/powershell.png  used on input line 49.
+(pdftex.def)             Requested size: 227.62967pt x 284.5334pt.
+[5 <./Imagenes/dockerlogin.png> <./Imagenes/powershell.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+<./Imagenes/dockerversion.png, id=34, 645.91313pt x 261.97874pt>
+File: ./Imagenes/dockerversion.png Graphic file (type png)
+<use ./Imagenes/dockerversion.png>
+Package pdftex.def Info: ./Imagenes/dockerversion.png  used on input line 61.
+(pdftex.def)             Requested size: 455.24069pt x 227.62785pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+<./Imagenes/dockersearch.png, id=35, 804.00375pt x 321.45094pt>
+File: ./Imagenes/dockersearch.png Graphic file (type png)
+<use ./Imagenes/dockersearch.png>
+Package pdftex.def Info: ./Imagenes/dockersearch.png  used on input line 70.
+(pdftex.def)             Requested size: 455.24442pt x 227.62845pt.
+[6
+
+ <./Imagenes/dockerversion.png> <./Imagenes/dockersearch.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+<./Imagenes/dockerdownload.png, id=39, 511.15968pt x 177.66376pt>
+File: ./Imagenes/dockerdownload.png Graphic file (type png)
+<use ./Imagenes/dockerdownload.png>
+Package pdftex.def Info: ./Imagenes/dockerdownload.png  used on input line 80.
+(pdftex.def)             Requested size: 455.24266pt x 227.6284pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+<./Imagenes/dockerdownloaded.png, id=40, 441.90094pt x 182.18062pt>
+File: ./Imagenes/dockerdownloaded.png Graphic file (type png)
+<use ./Imagenes/dockerdownloaded.png>
+Package pdftex.def Info: ./Imagenes/dockerdownloaded.png  used on input line 89
+.
+(pdftex.def)             Requested size: 455.26419pt x 227.63068pt.
+[7
+
+ <./Imagenes/dockerdownload.png> <./Imagenes/dockerdownloaded.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+<./Imagenes/dockerimages.png, id=44, 525.46312pt x 76.78688pt>
+File: ./Imagenes/dockerimages.png Graphic file (type png)
+<use ./Imagenes/dockerimages.png>
+Package pdftex.def Info: ./Imagenes/dockerimages.png  used on input line 99.
+(pdftex.def)             Requested size: 455.26501pt x 85.36331pt.
+<./Imagenes/dockercred.png, id=45, 756.57657pt x 85.82062pt>
+File: ./Imagenes/dockercred.png Graphic file (type png)
+<use ./Imagenes/dockercred.png>
+Package pdftex.def Info: ./Imagenes/dockercred.png  used on input line 108.
+(pdftex.def)             Requested size: 455.24242pt x 85.35812pt.
+<./Imagenes/firewall.png, id=46, 389.95688pt x 280.79906pt>
+File: ./Imagenes/firewall.png Graphic file (type png)
+<use ./Imagenes/firewall.png>
+Package pdftex.def Info: ./Imagenes/firewall.png  used on input line 116.
+(pdftex.def)             Requested size: 284.53525pt x 256.08882pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+<./Imagenes/dockerps.png, id=47, 793.46437pt x 68.50594pt>
+File: ./Imagenes/dockerps.png Graphic file (type png)
+<use ./Imagenes/dockerps.png>
+Package pdftex.def Info: ./Imagenes/dockerps.png  used on input line 124.
+(pdftex.def)             Requested size: 455.25778pt x 56.90695pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
+<./Imagenes/sql.png, id=48, 356.0803pt x 235.63031pt>
+File: ./Imagenes/sql.png Graphic file (type png)
+<use ./Imagenes/sql.png>
+Package pdftex.def Info: ./Imagenes/sql.png  used on input line 132.
+(pdftex.def)             Requested size: 284.53864pt x 256.0769pt.
+[8
+
+ <./Imagenes/dockerimages.png> <./Imagenes/dockercred.png> <./Imagenes/firewall
+.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+
+ []
+
+<./Imagenes/sqlconsulta.png, id=52, 767.86874pt x 129.48375pt>
+File: ./Imagenes/sqlconsulta.png Graphic file (type png)
+<use ./Imagenes/sqlconsulta.png>
+Package pdftex.def Info: ./Imagenes/sqlconsulta.png  used on input line 140.
+(pdftex.def)             Requested size: 512.18463pt x 113.81563pt.
+
+Overfull \hbox (11.70064pt too wide) in paragraph at lines 140--141
+ [] 
+ []
+
+[9 <./Imagenes/dockerps.png> <./Imagenes/sql.png> <./Imagenes/sqlconsulta.png>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+<./Imagenes/dockerele.png, id=56, 767.86874pt x 84.315pt>
+File: ./Imagenes/dockerele.png Graphic file (type png)
+<use ./Imagenes/dockerele.png>
+Package pdftex.def Info: ./Imagenes/dockerele.png  used on input line 148.
+(pdftex.def)             Requested size: 597.54092pt x 113.81387pt.
+
+Overfull \hbox (97.05693pt too wide) in paragraph at lines 148--149
+ [] 
+ []
+
+[10
+
+ <./Imagenes/dockerele.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+<./Imagenes/daltan.png, id=60, 897.3525pt x 88.83188pt>
+File: ./Imagenes/daltan.png Graphic file (type png)
+<use ./Imagenes/daltan.png>
+Package pdftex.def Info: ./Imagenes/daltan.png  used on input line 159.
+(pdftex.def)             Requested size: 455.23384pt x 113.8142pt.
+<./Imagenes/dockerps2.png, id=61, 807.7678pt x 69.25874pt>
+File: ./Imagenes/dockerps2.png Graphic file (type png)
+<use ./Imagenes/dockerps2.png>
+Package pdftex.def Info: ./Imagenes/dockerps2.png  used on input line 165.
+(pdftex.def)             Requested size: 455.24338pt x 113.8112pt.
+File: ./Imagenes/sql.png Graphic file (type png)
+<use ./Imagenes/sql.png>
+Package pdftex.def Info: ./Imagenes/sql.png  used on input line 172.
+(pdftex.def)             Requested size: 256.08423pt x 199.17212pt.
+[11
+
+ <./Imagenes/daltan.png> <./Imagenes/dockerps2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+<./Imagenes/script.png, id=66, 372.64218pt x 212.29312pt>
+File: ./Imagenes/script.png Graphic file (type png)
+<use ./Imagenes/script.png>
+Package pdftex.def Info: ./Imagenes/script.png  used on input line 181.
+(pdftex.def)             Requested size: 540.62436pt x 227.63405pt.
+
+Overfull \hbox (40.14037pt too wide) in paragraph at lines 181--182
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+<./Imagenes/datal.png, id=67, 615.80063pt x 234.8775pt>
+File: ./Imagenes/datal.png Graphic file (type png)
+<use ./Imagenes/datal.png>
+Package pdftex.def Info: ./Imagenes/datal.png  used on input line 189.
+(pdftex.def)             Requested size: 540.63771pt x 227.62303pt.
+
+Overfull \hbox (40.15372pt too wide) in paragraph at lines 189--190
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+[12
+
+ <./Imagenes/script.png> <./Imagenes/datal.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+ []
+
+<./Imagenes/winco.png, id=71, 267.24844pt x 267.24844pt>
+File: ./Imagenes/winco.png Graphic file (type png)
+<use ./Imagenes/winco.png>
+Package pdftex.def Info: ./Imagenes/winco.png  used on input line 203.
+(pdftex.def)             Requested size: 483.74638pt x 199.17577pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+File: ./Imagenes/dockersearch.png Graphic file (type png)
+<use ./Imagenes/dockersearch.png>
+Package pdftex.def Info: ./Imagenes/dockersearch.png  used on input line 212.
+(pdftex.def)             Requested size: 483.69412pt x 199.1749pt.
+[13
+
+ <./Imagenes/winco.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+
+ []
+
+<./Imagenes/windows.png, id=75, 393.72093pt x 184.43906pt>
+File: ./Imagenes/windows.png Graphic file (type png)
+<use ./Imagenes/windows.png>
+Package pdftex.def Info: ./Imagenes/windows.png  used on input line 220.
+(pdftex.def)             Requested size: 483.69714pt x 199.16869pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+
+ []
+
+<./Imagenes/windowsimages.png, id=76, 604.50844pt x 78.2925pt>
+File: ./Imagenes/windowsimages.png Graphic file (type png)
+<use ./Imagenes/windowsimages.png>
+Package pdftex.def Info: ./Imagenes/windowsimages.png  used on input line 228.
+(pdftex.def)             Requested size: 426.7873pt x 142.28348pt.
+[14
+
+ <./Imagenes/windows.png> <./Imagenes/windowsimages.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+<./Imagenes/credenciales.png, id=80, 924.45375pt x 78.2925pt>
+File: ./Imagenes/credenciales.png Graphic file (type png)
+<use ./Imagenes/credenciales.png>
+Package pdftex.def Info: ./Imagenes/credenciales.png  used on input line 237.
+(pdftex.def)             Requested size: 569.05055pt x 85.36101pt.
+
+Overfull \hbox (68.56656pt too wide) in paragraph at lines 237--238
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+
+ []
+
+File: ./Imagenes/sql.png Graphic file (type png)
+<use ./Imagenes/sql.png>
+Package pdftex.def Info: ./Imagenes/sql.png  used on input line 245.
+(pdftex.def)             Requested size: 284.53864pt x 256.0769pt.
+[15
+
+ <./Imagenes/credenciales.png>]
+<./Imagenes/sqlwindows.png, id=84, 938.75719pt x 134.75343pt>
+File: ./Imagenes/sqlwindows.png Graphic file (type png)
+<use ./Imagenes/sqlwindows.png>
+Package pdftex.def Info: ./Imagenes/sqlwindows.png  used on input line 253.
+(pdftex.def)             Requested size: 512.14969pt x 113.81306pt.
+
+Overfull \hbox (11.6657pt too wide) in paragraph at lines 253--254
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+
+ []
+
+<./Imagenes/scrip.png, id=85, 257.46187pt x 187.45032pt>
+File: ./Imagenes/scrip.png Graphic file (type png)
+<use ./Imagenes/scrip.png>
+Package pdftex.def Info: ./Imagenes/scrip.png  used on input line 261.
+(pdftex.def)             Requested size: 284.55247pt x 227.63646pt.
+[16
+
+ <./Imagenes/sqlwindows.png> <./Imagenes/scrip.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+
+ []
+
+<./Imagenes/datawin.png, id=89, 529.22719pt x 105.39375pt>
+File: ./Imagenes/datawin.png Graphic file (type png)
+<use ./Imagenes/datawin.png>
+Package pdftex.def Info: ./Imagenes/datawin.png  used on input line 269.
+(pdftex.def)             Requested size: 455.24763pt x 113.81389pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
+
+ []
+
+<./Imagenes/dockerrm.png, id=90, 244.66406pt x 65.49469pt>
+File: ./Imagenes/dockerrm.png Graphic file (type png)
+<use ./Imagenes/dockerrm.png>
+Package pdftex.def Info: ./Imagenes/dockerrm.png  used on input line 277.
+(pdftex.def)             Requested size: 284.53474pt x 142.28485pt.
+<./Imagenes/dockerpsss.png, id=91, 395.22656pt x 80.55093pt>
+File: ./Imagenes/dockerpsss.png Graphic file (type png)
+<use ./Imagenes/dockerpsss.png>
+Package pdftex.def Info: ./Imagenes/dockerpsss.png  used on input line 283.
+(pdftex.def)             Requested size: 341.43808pt x 85.36145pt.
+[17
+
+ <./Imagenes/datawin.png> <./Imagenes/dockerrm.png> <./Imagenes/dockerpsss.png>
+]
+<./Imagenes/tar.png, id=96, 377.91188pt x 42.1575pt>
+File: ./Imagenes/tar.png Graphic file (type png)
+<use ./Imagenes/tar.png>
+Package pdftex.def Info: ./Imagenes/tar.png  used on input line 296.
+(pdftex.def)             Requested size: 341.4323pt x 85.36006pt.
+<./Imagenes/tar2.png, id=97, 457.71pt x 77.53969pt>
+File: ./Imagenes/tar2.png Graphic file (type png)
+<use ./Imagenes/tar2.png>
+Package pdftex.def Info: ./Imagenes/tar2.png  used on input line 303.
+(pdftex.def)             Requested size: 341.44485pt x 85.35777pt.
+ [18
+
+ <./Imagenes/tar.png> <./Imagenes/tar2.png>]
+<./Imagenes/volumenes.png, id=101, 254.45062pt x 101.62968pt>
+File: ./Imagenes/volumenes.png Graphic file (type png)
+<use ./Imagenes/volumenes.png>
+Package pdftex.def Info: ./Imagenes/volumenes.png  used on input line 316.
+(pdftex.def)             Requested size: 341.44739pt x 85.36058pt.
+<./Imagenes/volumenes2.png, id=102, 392.21532pt x 313.17pt>
+File: ./Imagenes/volumenes2.png Graphic file (type png)
+<use ./Imagenes/volumenes2.png>
+Package pdftex.def Info: ./Imagenes/volumenes2.png  used on input line 325.
+(pdftex.def)             Requested size: 284.54332pt x 256.08426pt.
+ [19
+
+ <./Imagenes/volumenes.png> <./Imagenes/volumenes2.png>]
+<./Imagenes/scriptq.png, id=106, 254.45062pt x 378.66469pt>
+File: ./Imagenes/scriptq.png Graphic file (type png)
+<use ./Imagenes/scriptq.png>
+Package pdftex.def Info: ./Imagenes/scriptq.png  used on input line 340.
+(pdftex.def)             Requested size: 284.54013pt x 256.07875pt.
+<./Imagenes/scriptq2.png, id=107, 593.21625pt x 143.78719pt>
+File: ./Imagenes/scriptq2.png Graphic file (type png)
+<use ./Imagenes/scriptq2.png>
+Package pdftex.def Info: ./Imagenes/scriptq2.png  used on input line 348.
+(pdftex.def)             Requested size: 284.53236pt x 170.72272pt.
+) [20
+
+ <./Imagenes/scriptq.png> <./Imagenes/scriptq2.png>]
+\openout2 = `Secciones/Actividad04.aux'.
+
+ (Secciones/Actividad04.tex) [21
+
+
+]
+\openout2 = `Secciones/Actividad05.aux'.
+
+ (Secciones/Actividad05.tex)
+[22
+
+
+]
+\openout2 = `Secciones/Actividad06.aux'.
+
+ (Secciones/Actividad06.tex) [23
+
+
+]
+\openout2 = `Secciones/Actividad07.aux'.
+
+ (Secciones/Actividad07.tex
+Overfull \hbox (28.38275pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/m/n/12 https://cerebro-digital.com/panel/knowledgebase/64/Exportaror
+Importar-contenedor-de-Docker-
+ []
+
+) [24
+
+
+] (InformeLaboratorio04.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (Secciones/Actividad01.aux)
+(Secciones/Actividad02.aux) (Secciones/Actividad03.aux)
+(Secciones/Actividad04.aux) (Secciones/Actividad05.aux)
+(Secciones/Actividad06.aux) (Secciones/Actividad07.aux)) ) 
+Here is how much of TeX's memory you used:
+ 3878 strings out of 492946
+ 55445 string characters out of 3143048
+ 137141 words of memory out of 3000000
+ 7626 multiletter control sequences out of 15000+200000
+ 9407 words of font info for 34 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,6n,31p,1098b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/miktext/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb><D:/miktext/fonts/type1/public/amsfonts/cm/cmr
+12.pfb><D:/miktext/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on InformeLaboratorio04.pdf (26 pages, 488271 bytes).
+PDF statistics:
+ 135 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 186 words of extra memory for PDF output out of 10000 (max. 10000000)
+

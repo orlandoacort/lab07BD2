@@ -1,0 +1,22 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}INFORMACI\IeC {\'O}N GENERAL}{1}% 
+\contentsline {subsection}{\numberline {1.1}Objetivos:}{1}% 
+\contentsline {subsection}{\numberline {1.2}Requerimientos}{1}% 
+\contentsline {section}{\numberline {2}MARCO TEORICO}{2}% 
+\contentsline {section}{\numberline {3}PROCEDIMIENTO}{3}% 
+\contentsline {subsection}{\numberline {3.1}Instalacion de Docker}{3}% 
+\contentsline {subsection}{\numberline {3.2}Iniciando en Docker}{5}% 
+\contentsline {subsection}{\numberline {3.3}Creando un contenedor Miscrosoft SQL para Linux}{6}% 
+\contentsline {subsection}{\numberline {3.4}Adicionando una Persistencia}{11}% 
+\contentsline {subsection}{\numberline {3.5}Creando un contenedor con Microsoft SQL para Windows}{13}% 
+\contentsline {subsection}{\numberline {3.6}Actividades Encargadas}{18}% 
+\contentsline {subsubsection}{\numberline {3.6.1}\IeC {\textquestiondown }Con qu\IeC {\'e} comando(s) exportar\IeC {\'\i }a la imagen de Docker de Microsoft SQL Server a otra PC o servidor?}{18}% 
+\contentsline {subsubsection}{\numberline {3.6.2}\IeC {\textquestiondown }Con qu\IeC {\'e} comando(s) podr\IeC {\'\i }a generar dos vol\IeC {\'u}menes para un contenedor?}{19}% 
+\contentsline {subsubsection}{\numberline {3.6.3}Genere un nuevo contenedor con las siguientes caracteristicas:}{20}% 
+\contentsline {section}{\numberline {4}CUESTIONARIO}{21}% 
+\contentsline {subsection}{\numberline {4.1}\IeC {\textquestiondown }Con qu\IeC {\'e} comando(s) exportar\IeC {\'\i }a la imagen de Docker de Microsoft SQL Server a otra PC o servidor?}{21}% 
+\contentsline {subsection}{\numberline {4.2}\IeC {\textquestiondown }Con qu\IeC {\'e} comando(s) podr\IeC {\'\i }a generar dos vol\IeC {\'u}menes para un contenedor para distribuir en un volumen el Archivo de Datos (mdf) y en otro el Archivo Log (ldf)?}{21}% 
+\contentsline {subsection}{\numberline {4.3}Genere un nuevo contenedor y cree la base de datos con las siguientes caracter\IeC {\'\i }sticas}{21}% 
+\contentsline {section}{\numberline {5}CONCLUSIONES}{22}% 
+\contentsline {section}{\numberline {6}BIBLIOGRAFIA}{23}% 
+\contentsline {section}{\numberline {7}WEBGRAFIA}{24}% 
